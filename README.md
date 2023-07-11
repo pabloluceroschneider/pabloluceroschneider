@@ -2,7 +2,7 @@
 
 Software Engineer with 3+ years of experience specialized in the following stack:
 
-<img width="200" src="https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/cf366267-5a58-474d-ae96-4a06764d1dcb"/><br /><br />
+<img width="200" src="https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/cf366267-5a58-474d-ae96-4a06764d1dcb"/><br />
 
 My website [pabloschneider.com.ar](https://www.pabloschneider.com.ar/) is still in progress, but you can check it out!
 
