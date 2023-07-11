@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm Software Engineer with 3+ years of experience. 
+I'm specialized in the following stack:
+<div>
+  <img width="200" src="https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/cf366267-5a58-474d-ae96-4a06764d1dcb"/>
+</div> 
+
+<!--
+
+### <img width="20" src="https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/3329c34c-8796-42a4-a303-a5c68a3ee65c" alt="React"/> React
+- Almost 3 years of experience
+
+### <img width="22" src="https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/9366ff60-03e5-4796-b7bc-275fba0602f6" alt="node"/>    Node
+-->
+
+
+
 <!--
 **pabloluceroschneider/pabloluceroschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
