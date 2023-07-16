@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineer with 3+ years of experience specialized in the following stack:
+Software Engineer with +3 years of experience specialized in the following stack:
 
 <img width="200" src="https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/cf366267-5a58-474d-ae96-4a06764d1dcb"/><br />
 
