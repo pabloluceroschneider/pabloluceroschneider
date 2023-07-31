@@ -6,9 +6,11 @@ Software Engineer with +3 years of experience specialized in the following stack
 
 My website [pabloschneider.com.ar](https://www.pabloschneider.com.ar/) is still in progress, but you can check it out!
 
+<!--
+![Certificado Security Guardians - Pablo Schneider](https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/3c23c3aa-fc8e-4771-be9c-25929484c22c)
+-->
 
 <!--
-
 ### <img width="20" src="https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/3329c34c-8796-42a4-a303-a5c68a3ee65c" alt="React"/> React
 - Almost 3 years of experience
 
