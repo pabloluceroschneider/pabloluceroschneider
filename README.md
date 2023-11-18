@@ -4,7 +4,9 @@ Software Engineer with +3 years of experience specialized in the following stack
 
 <img width="200" src="https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/cf366267-5a58-474d-ae96-4a06764d1dcb"/><br />
 
+<!--
 My website [pabloschneider.com.ar](https://www.pabloschneider.com.ar/) is still in progress, but you can check it out!
+-->
 
 <!--
 ![Certificado Security Guardians - Pablo Schneider](https://github.com/pabloluceroschneider/pabloluceroschneider/assets/43233080/3c23c3aa-fc8e-4771-be9c-25929484c22c)
